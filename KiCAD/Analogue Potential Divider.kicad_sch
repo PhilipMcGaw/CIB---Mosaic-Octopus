@@ -816,16 +816,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 53.34) (xy 135.89 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ccfa90c-755b-495a-b1dc-ba02e235721b")
-	)
-	(wire
-		(pts
 			(xy 135.89 60.96) (xy 135.89 63.5)
 		)
 		(stroke
@@ -856,6 +846,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 73.66) (xy 146.05 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "408a010e-b509-4b4e-9b2d-8334859fe58e")
+	)
+	(wire
+		(pts
 			(xy 125.73 73.66) (xy 135.89 73.66)
 		)
 		(stroke
@@ -883,16 +883,6 @@
 			(type default)
 		)
 		(uuid "6cd51a0c-a881-4797-a84b-38e712585a90")
-	)
-	(wire
-		(pts
-			(xy 135.89 63.5) (xy 146.05 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "706f8c21-ed0c-4e29-bf11-092f21dee630")
 	)
 	(wire
 		(pts
@@ -946,23 +936,13 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 73.66) (xy 135.89 73.66)
+			(xy 128.27 53.34) (xy 146.05 53.34)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a054bd51-6321-4444-9664-879cb55ae9e6")
-	)
-	(wire
-		(pts
-			(xy 135.89 53.34) (xy 128.27 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a941edbd-e856-4469-bf98-26815f218243")
+		(uuid "a32bd701-08b6-4a12-a601-a57fab5deeef")
 	)
 	(wire
 		(pts
@@ -996,7 +976,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 63.5) (xy 135.89 63.5)
+			(xy 128.27 63.5) (xy 146.05 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1045,6 +1025,111 @@
 			(justify left)
 		)
 		(uuid "98331edb-b01b-4725-b765-fca2d863edf8")
+	)
+	(netclass_flag ""
+		(length 1)
+		(shape round)
+		(at 140.97 63.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "a368bc2e-3007-4952-ab59-7ac5b02bdf51")
+		(property "Net Class" "PCBway min 1 oz "
+			(at 141.5999 62.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.25 0.25)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -10.16 -10.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 1)
+		(shape round)
+		(at 140.97 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "d6a62db4-1e7d-4df0-9437-e48249af5115")
+		(property "Net Class" "PCBway min 1 oz "
+			(at 141.5999 52.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.25 0.25)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -10.16 -20.32 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 1)
+		(shape round)
+		(at 140.97 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "f7fdd8d8-0af4-4d20-88d6-b70e841a1e62")
+		(property "Net Class" "PCBway min 1 oz "
+			(at 141.5999 72.66 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.25 0.25)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -10.16 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_Small")

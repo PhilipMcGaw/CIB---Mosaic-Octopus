@@ -587,7 +587,164 @@
       "version": 5
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/A1": [
+        "PCBway min 1 oz "
+      ],
+      "/A10": [
+        "PCBway min 1 oz "
+      ],
+      "/A11": [
+        "PCBway min 1 oz "
+      ],
+      "/A12": [
+        "PCBway min 1 oz "
+      ],
+      "/A13": [
+        "PCBway min 1 oz "
+      ],
+      "/A14": [
+        "PCBway min 1 oz "
+      ],
+      "/A15": [
+        "PCBway min 1 oz "
+      ],
+      "/A16": [
+        "PCBway min 1 oz "
+      ],
+      "/A2": [
+        "PCBway min 1 oz "
+      ],
+      "/A3": [
+        "PCBway min 1 oz "
+      ],
+      "/A4": [
+        "PCBway min 1 oz "
+      ],
+      "/A5": [
+        "PCBway min 1 oz "
+      ],
+      "/A6": [
+        "PCBway min 1 oz "
+      ],
+      "/A7": [
+        "PCBway min 1 oz "
+      ],
+      "/A8": [
+        "PCBway min 1 oz "
+      ],
+      "/A9": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC1": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC10": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC11": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC12": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC13": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC14": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC15": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC16": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC2": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC3": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC4": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC5": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC6": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC7": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC8": [
+        "PCBway min 1 oz "
+      ],
+      "/ADC9": [
+        "PCBway min 1 oz "
+      ],
+      "/DIO1": [
+        "PCBway min 1 oz "
+      ],
+      "/DIO2": [
+        "PCBway min 1 oz "
+      ],
+      "/DIO3": [
+        "PCBway min 1 oz "
+      ],
+      "/DIO4": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP11-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP13-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP17-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP2-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP21-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP25-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP29-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP33-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP37-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP41-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP45-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP49-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP5-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP53-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP57-B)": [
+        "PCBway min 1 oz "
+      ],
+      "Net-(JP61-B)": [
+        "PCBway min 1 oz "
+      ]
+    },
     "netclass_patterns": []
   },
   "pcbnew": {

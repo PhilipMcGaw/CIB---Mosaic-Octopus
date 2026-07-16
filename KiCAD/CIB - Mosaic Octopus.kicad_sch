@@ -3977,6 +3977,16 @@
 		)
 		(uuid "08e473a5-ff46-4bd5-8e22-9e9b70801cac")
 	)
+	(label "DIO1"
+		(at 40.64 146.05 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "0a6a9f0c-dde2-45c7-830b-bdd35c9217f1")
+	)
 	(label "ADC11"
 		(at 250.19 50.8 180)
 		(effects
@@ -4006,26 +4016,6 @@
 			(justify left bottom)
 		)
 		(uuid "1331d940-1b56-46f4-bea8-f00442024b8c")
-	)
-	(label "D2"
-		(at 40.64 148.59 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "1356f5c5-dfb5-4443-bec8-b91b4bb6aceb")
-	)
-	(label "D3"
-		(at 40.64 151.13 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "139d3664-1b4d-40a3-98b6-cb357af90d7d")
 	)
 	(label "ADC10"
 		(at 250.19 43.18 180)
@@ -4067,6 +4057,16 @@
 		)
 		(uuid "241451dd-7918-45f7-b25d-6528ab22a0bd")
 	)
+	(label "DIO4"
+		(at 40.64 153.67 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "278a8f2f-0332-4324-a375-5c6c6e166604")
+	)
 	(label "A3"
 		(at 40.64 25.4 0)
 		(effects
@@ -4107,8 +4107,18 @@
 		)
 		(uuid "329dbf53-6ff9-4e27-b49f-8dd4e9f72ea4")
 	)
-	(label "D2"
-		(at 246.38 73.66 180)
+	(label "DIO3"
+		(at 40.64 151.13 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "346c5db5-ca2a-486a-9ccf-da884c39812a")
+	)
+	(label "DIO2"
+		(at 250.19 76.2 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -4177,8 +4187,8 @@
 		)
 		(uuid "4f7bac4a-2e5c-40ac-b328-02bfb738b44b")
 	)
-	(label "D3"
-		(at 246.38 76.2 180)
+	(label "DIO3"
+		(at 250.19 81.28 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -4186,6 +4196,16 @@
 			(justify right bottom)
 		)
 		(uuid "4fb17375-b092-4b34-a25d-81dd51f13a4a")
+	)
+	(label "DIO2"
+		(at 40.64 148.59 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "51c18284-f853-410a-b2b8-2080a217ecc8")
 	)
 	(label "ADC15"
 		(at 250.19 60.96 180)
@@ -4317,8 +4337,8 @@
 		)
 		(uuid "75d15375-4d2b-4b09-88f1-614dcfd0b9dd")
 	)
-	(label "D1"
-		(at 246.38 71.12 180)
+	(label "DIO1"
+		(at 250.19 71.12 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -4346,16 +4366,6 @@
 			(justify left bottom)
 		)
 		(uuid "7b1a65f7-623a-4883-bf3e-c4283e980e9a")
-	)
-	(label "D4"
-		(at 40.64 153.67 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "7fac6706-be1f-4943-ade6-15e270d0b3de")
 	)
 	(label "ADC16"
 		(at 109.22 151.13 0)
@@ -4547,16 +4557,6 @@
 		)
 		(uuid "d70c68bd-ea67-4339-93f5-363cdb1e607f")
 	)
-	(label "D1"
-		(at 40.64 146.05 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "ddfff7cf-d7d5-4a00-8a95-74cbcda1f518")
-	)
 	(label "A7"
 		(at 73.66 71.12 180)
 		(effects
@@ -4567,8 +4567,8 @@
 		)
 		(uuid "e2e29bfb-4e2c-4fc8-af22-b4a9824ed8de")
 	)
-	(label "D4"
-		(at 246.38 78.74 180)
+	(label "DIO4"
+		(at 250.19 83.82 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -4666,6 +4666,146 @@
 			(justify right bottom)
 		)
 		(uuid "fd5519e6-2688-4bbf-8c28-1dd59b1b4c9d")
+	)
+	(netclass_flag ""
+		(length 1)
+		(shape round)
+		(at 36.83 151.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "04b08865-47c1-4322-8740-be485bf8c14d")
+		(property "Net Class" "PCBway min 1 oz "
+			(at 37.4599 150.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.25 0.25)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -114.3 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 1)
+		(shape round)
+		(at 36.83 146.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "4a6fbac1-206a-4278-b495-b1347240d54b")
+		(property "Net Class" "PCBway min 1 oz "
+			(at 37.4599 145.05 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.25 0.25)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -114.3 72.39 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 1)
+		(shape round)
+		(at 36.83 148.59 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "554f8921-7071-43e9-b863-11ab950fe597")
+		(property "Net Class" "PCBway min 1 oz "
+			(at 37.4599 147.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.25 0.25)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -114.3 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 1)
+		(shape round)
+		(at 36.83 153.67 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "b7e0570b-eb17-4cac-afbc-eb54bdcaf1a3")
+		(property "Net Class" "PCBway min 1 oz "
+			(at 37.4599 152.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 0.25 0.25)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -114.3 80.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x06_Socket")
