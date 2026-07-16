@@ -254,7 +254,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "0.1"
+      "sch_revision": ""
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -503,7 +503,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ROV CTD.kicad_pro",
+    "filename": "CIB - Mosaic Octopus.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -587,396 +587,7 @@
       "version": 5
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "+3V3": [
-        "PCBway min 1 oz "
-      ],
-      "+5V": [
-        "1 oz - 2 A",
-        "PCBway min 1 oz "
-      ],
-      "+5V_Mid": [
-        "1 oz - 2 A"
-      ],
-      "+5V_Up": [
-        "1 oz - 2 A"
-      ],
-      "+Ve": [
-        "1 oz - 1 A"
-      ],
-      "-3V3": [
-        "PCBway min 1 oz "
-      ],
-      "-5V": [
-        "PCBway min 1 oz "
-      ],
-      "/1Wire": [
-        "PCBway min 1 oz "
-      ],
-      "/3V3": [
-        "PCBway min 1 oz "
-      ],
-      "/5V": [
-        "PCBway min 1 oz "
-      ],
-      "/A": [
-        "PCBway min 1 oz "
-      ],
-      "/A0{slash}D0": [
-        "PCBway min 1 oz "
-      ],
-      "/A10{slash}D10": [
-        "PCBway min 1 oz "
-      ],
-      "/A1{slash}D1": [
-        "PCBway min 1 oz "
-      ],
-      "/A3": [
-        "PCBway min 1 oz "
-      ],
-      "/A4_SDA": [
-        "PCBway min 1 oz "
-      ],
-      "/A5_SCL": [
-        "PCBway min 1 oz "
-      ],
-      "/A8{slash}D8": [
-        "PCBway min 1 oz "
-      ],
-      "/A9{slash}D9": [
-        "PCBway min 1 oz "
-      ],
-      "/AD{slash}CS": [
-        "PCBway min 1 oz "
-      ],
-      "/B": [
-        "PCBway min 1 oz "
-      ],
-      "/Bot_Probe_1": [
-        "PCBway min 1 oz "
-      ],
-      "/Bot_Probe_2": [
-        "PCBway min 1 oz "
-      ],
-      "/Bot_SCL": [
-        "PCBway min 1 oz "
-      ],
-      "/Bot_SDA": [
-        "PCBway min 1 oz "
-      ],
-      "/Bot_Temp": [
-        "PCBway min 1 oz "
-      ],
-      "/Builtin_LED": [
-        "PCBway min 1 oz "
-      ],
-      "/Conductivity Transducer/Osc": [
-        "PCBway min 1 oz "
-      ],
-      "/Data_A": [
-        "PCBway min 1 oz "
-      ],
-      "/Data_B": [
-        "PCBway min 1 oz "
-      ],
-      "/LED+_L": [
-        "1 oz - 2 A"
-      ],
-      "/LED+_U": [
-        "1 oz - 2 A"
-      ],
-      "/LED-_L": [
-        "1 oz - 2 A"
-      ],
-      "/LED-_U": [
-        "1 oz - 2 A"
-      ],
-      "/LED_PWM": [
-        "PCBway min 1 oz "
-      ],
-      "/LED_SW": [
-        "1 oz - 2 A"
-      ],
-      "/Mid_Probe_1": [
-        "PCBway min 1 oz "
-      ],
-      "/Mid_Probe_2": [
-        "PCBway min 1 oz "
-      ],
-      "/Mid_SCL": [
-        "PCBway min 1 oz "
-      ],
-      "/Mid_SDA": [
-        "PCBway min 1 oz "
-      ],
-      "/Mid_TDS": [
-        "PCBway min 1 oz "
-      ],
-      "/Mid_Temp": [
-        "PCBway min 1 oz "
-      ],
-      "/NeoPixle": [
-        "PCBway min 1 oz "
-      ],
-      "/Neo_Mid": [
-        "PCBway min 1 oz "
-      ],
-      "/Neo_Up": [
-        "PCBway min 1 oz "
-      ],
-      "/PS": [
-        "PCBway min 1 oz "
-      ],
-      "/PWM": [
-        "PCBway min 1 oz "
-      ],
-      "/Pressure Transducer/AD{slash}CS": [
-        "PCBway min 1 oz "
-      ],
-      "/Pressure Transducer/PS": [
-        "PCBway min 1 oz "
-      ],
-      "/Pressure Transducer/SCL{slash}SCLK": [
-        "PCBway min 1 oz "
-      ],
-      "/Pressure Transducer/SDA{slash}SDI": [
-        "PCBway min 1 oz "
-      ],
-      "/Pressure Transducer/SDO": [
-        "PCBway min 1 oz "
-      ],
-      "/RESET": [
-        "PCBway min 1 oz "
-      ],
-      "/RTS0": [
-        "PCBway min 1 oz "
-      ],
-      "/RX0": [
-        "PCBway min 1 oz "
-      ],
-      "/RX1": [
-        "PCBway min 1 oz "
-      ],
-      "/SCL": [
-        "PCBway min 1 oz "
-      ],
-      "/SCL{slash}SCLK": [
-        "PCBway min 1 oz "
-      ],
-      "/SDA": [
-        "PCBway min 1 oz "
-      ],
-      "/SDA{slash}SDI": [
-        "PCBway min 1 oz "
-      ],
-      "/SDO": [
-        "PCBway min 1 oz "
-      ],
-      "/SERIAL_DIR": [
-        "PCBway min 1 oz "
-      ],
-      "/SERIAL_RX": [
-        "PCBway min 1 oz "
-      ],
-      "/SERIAL_TX": [
-        "PCBway min 1 oz "
-      ],
-      "/STATUS": [
-        "PCBway min 1 oz "
-      ],
-      "/STATUS_LED": [
-        "PCBway min 1 oz "
-      ],
-      "/Status{slash}Temp": [
-        "PCBway min 1 oz "
-      ],
-      "/TX0": [
-        "PCBway min 1 oz "
-      ],
-      "/TX1": [
-        "PCBway min 1 oz "
-      ],
-      "/Top_SCL": [
-        "PCBway min 1 oz "
-      ],
-      "/Top_SDA": [
-        "PCBway min 1 oz "
-      ],
-      "/Top_TDS": [
-        "PCBway min 1 oz "
-      ],
-      "/Top_Temp": [
-        "PCBway min 1 oz "
-      ],
-      "/UPDI": [
-        "PCBway min 1 oz "
-      ],
-      "/Vmeasure": [
-        "PCBway min 1 oz "
-      ],
-      "/XTAL1": [
-        "PCBway min 1 oz "
-      ],
-      "/XTAL2": [
-        "PCBway min 1 oz "
-      ],
-      "GND": [
-        "1 oz - 2 A"
-      ],
-      "GND_Mid": [
-        "1 oz - 2 A"
-      ],
-      "Net-(C21-Pad1)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(C27-Pad1)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D1-A)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D1-K)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D10-A)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D11-A)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D11-K)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D12-A)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D2-K)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D3-A)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D3-K)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D4-A)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D5-A)": [
-        "1 oz - 2 A"
-      ],
-      "Net-(D6-A)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D6-DIN)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D6-DO)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D7-A)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D7-DO)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D8-DO)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(D9-K)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(J1-Ext)": [
-        "1 oz - 2 A"
-      ],
-      "Net-(J1-In)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(J10-Pin_2)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(J13-Pin_2)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(J13-Pin_3)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(J5-Pin_3)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(J9-Pin_3)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(J9-Pin_5)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(R17-Pad2)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(R20-Pad2)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(R24-Pad1)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(U1-CTRL)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(U1A--)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(U1B--)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(U1C--)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(U1D-+)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(U1D--)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(U3-BST)": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(U3-SW)": [
-        "1 oz - 2 A"
-      ],
-      "Net-(U4-C_{FLY+})": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(U4-C_{FLY-})": [
-        "PCBway min 1 oz "
-      ],
-      "Net-(U5-AREF)": [
-        "PCBway min 1 oz "
-      ],
-      "V_in": [
-        "1 oz - 2 A"
-      ],
-      "V_in_Mid": [
-        "1 oz - 2 A"
-      ],
-      "unconnected-(J7-Pin_11-Pad11)": [
-        "PCBway min 1 oz "
-      ],
-      "unconnected-(J7-Pin_6-Pad6)": [
-        "PCBway min 1 oz "
-      ],
-      "unconnected-(J7-Pin_9-Pad9)": [
-        "PCBway min 1 oz "
-      ],
-      "unconnected-(J8-Pin_3-Pad3)": [
-        "PCBway min 1 oz "
-      ],
-      "unconnected-(J8-Pin_5-Pad5)": [
-        "PCBway min 1 oz "
-      ],
-      "unconnected-(U2-A8{slash}D8_MOSI-Pad11)": [
-        "PCBway min 1 oz "
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -1267,9 +878,9 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "ROV CTD.kicad_sch",
-        "name": "ROV CTD",
-        "uuid": "4b85b8a1-3b52-4af9-b3a4-471ab529b035"
+        "filename": "CIB - Mosaic Octopus.kicad_sch",
+        "name": "",
+        "uuid": "a7ce4bb3-9ce5-48ac-8c12-047086c2c043"
       }
     ],
     "used_designators": "",
@@ -1277,16 +888,72 @@
   },
   "sheets": [
     [
-      "4b85b8a1-3b52-4af9-b3a4-471ab529b035",
-      "ROV CTD"
+      "a7ce4bb3-9ce5-48ac-8c12-047086c2c043",
+      ""
     ],
     [
-      "150d263f-d8d0-41bc-b04b-394586738282",
-      "Pressure Transducer"
+      "26e35310-92da-40ef-b9bd-82c6571c2be7",
+      "Analogue Potential Divider"
     ],
     [
-      "ca4f46b8-1067-479f-855d-d4866b315eff",
-      "Conductivity Transducer"
+      "0e2254d1-5fe9-4f55-8543-2fce7965ffde",
+      "Analogue Potential Divider1"
+    ],
+    [
+      "b32fdebf-49dd-4ac2-ac65-fe649fb6cedb",
+      "Analogue Potential Divider2"
+    ],
+    [
+      "a4d02a6a-847e-4a85-a788-5c2d3d2ed11b",
+      "Analogue Potential Divider3"
+    ],
+    [
+      "5a8fb333-bc5c-4d67-9423-03c26a191e06",
+      "Analogue Potential Divider4"
+    ],
+    [
+      "29ea32f7-a4ec-48dd-9096-1965181171a1",
+      "Analogue Potential Divider5"
+    ],
+    [
+      "56cc418f-de4d-4641-9eae-6cfb7d72ff82",
+      "Analogue Potential Divider6"
+    ],
+    [
+      "c3273707-f7c0-4279-93e8-bd2aac32d37b",
+      "Analogue Potential Divider7"
+    ],
+    [
+      "4f945d60-b539-4bdf-967f-a0ad7d33dd45",
+      "Analogue Potential Divider8"
+    ],
+    [
+      "326e26ea-2dad-486d-bf93-7a77ac319976",
+      "Analogue Potential Divider9"
+    ],
+    [
+      "87181151-3532-49ac-97f6-a805121bae32",
+      "Analogue Potential Divider10"
+    ],
+    [
+      "a847f02c-4806-48c5-93ab-469bbd0f1bf4",
+      "Analogue Potential Divider11"
+    ],
+    [
+      "9fa8af28-3887-43f7-b181-2718d7c33822",
+      "Analogue Potential Divider12"
+    ],
+    [
+      "0e67d2ae-c82a-4ac1-bd6f-8fc1aa1a45e4",
+      "Analogue Potential Divider13"
+    ],
+    [
+      "e8499d4d-7e8d-4def-88b4-b2289f64e9d2",
+      "Analogue Potential Divider14"
+    ],
+    [
+      "41ec3a86-c968-4939-a6d8-4bf9b04f02cd",
+      "Analogue Potential Divider15"
     ]
   ],
   "text_variables": {},
