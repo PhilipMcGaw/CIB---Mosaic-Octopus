@@ -6,17 +6,20 @@ Breakout board for Pico Technologies Ltd ADC20/ADC24 (https://www.picotech.com/a
 
 ## Pinout
 
-| DB 25 Pin (J1) |Function|
+| DB 25 Pin (J1) | Function |
+| --- | --- |
 | 1  | Analogue Channel 2 |
 | 2  | Analogue Channel 4 |
 | 3  | Analogue Channel 6 |
 | 4  | Analogue Channel 8 |
-
-
+| 5  | Analogue Channel 10 |
+| 6  | Analogue Channel 12 |
+| 7  | Analogue Channel 14 |
+| 8  | Analogue Channel 16 |
 | 9  | Analogue Ground (AG) |
 | 10 | +5 VDC |
 | 11 | -5 VDC |
-| 12 | +2V5   |
+| 12 | +2V5 |
 
 | 14 | Analogue Channel 1 |
 | 15 | Analogue Channel 3 |
