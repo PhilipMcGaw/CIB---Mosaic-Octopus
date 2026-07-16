@@ -20,9 +20,16 @@ Breakout board for Pico Technologies Ltd ADC20/ADC24 (https://www.picotech.com/a
 | 10 | +5 VDC |
 | 11 | -5 VDC |
 | 12 | +2V5 |
-
+| 13 | DIO 4 |
 | 14 | Analogue Channel 1 |
 | 15 | Analogue Channel 3 |
 | 16 | Analogue Channel 5 |
 | 17 | Analogue Channel 7 |
+| 18 | Analogue Channel 9 |
+| 19 | Analogue Channel 11 |
+| 20 | Analogue Channel 13 |
+| 21 | Analogue Channel 15 |
 | 22 | Digital Ground (DG) |
+| 23 | DIO 1 |
+| 24 | DIO 2 |
+| 25 | DIO 3 |
